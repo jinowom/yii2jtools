@@ -1,5 +1,5 @@
 <?php
-namespace jinowom\yii2jwtools\behaviors;
+namespace jinowom\yii2jtools\behaviors;
 
 use yii\base\Behavior;
 use yii\db\ActiveRecord;

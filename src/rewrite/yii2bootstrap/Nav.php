@@ -6,7 +6,7 @@
  * Time: 下午3:14
  */
 
-namespace jinowom\yii2jwtools\rewrite\yii2bootstrap;
+namespace jinowom\yii2jtools\rewrite\yii2bootstrap;
 
 
 use yii\helpers\ArrayHelper;

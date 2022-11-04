@@ -6,10 +6,10 @@
  * Time: 下午5:41
  */
 
-namespace jinowom\yii2jwtools\tools;
+namespace jinowom\yii2jtools\tools;
 
 
-use jinowom\yii2jwtools\lib\MhtFileMaker;
+use jinowom\yii2jtools\lib\MhtFileMaker;
 
 class FileHelper extends \yii\helpers\FileHelper
 {

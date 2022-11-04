@@ -6,7 +6,7 @@
  * Time: 下午5:08
  */
 
-namespace jinowom\yii2jwtools\swoole;
+namespace jinowom\yii2jtools\swoole;
 
 
 use yii\base\Component;

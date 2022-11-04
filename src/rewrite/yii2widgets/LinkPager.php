@@ -6,7 +6,7 @@
  * Time: 下午2:38
  */
 
-namespace jinowom\yii2jwtools\rewrite\yii2widgets;
+namespace jinowom\yii2jtools\rewrite\yii2widgets;
 
 
 class LinkPager extends \yii\widgets\LinkPager

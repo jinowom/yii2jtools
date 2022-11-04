@@ -3,7 +3,7 @@
  * 获取所有路由
  * @author xinnianq 2017-10-11
  */
-namespace jinowom\yii2jwtools\tools;
+namespace jinowom\yii2jtools\tools;
 
 
 use Yii;

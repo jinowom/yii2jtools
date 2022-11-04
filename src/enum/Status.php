@@ -6,7 +6,7 @@
  * Time: 下午3:20
  */
 
-namespace jinowom\yii2jwtools\enum;
+namespace jinowom\yii2jtools\enum;
 
 
 class Status

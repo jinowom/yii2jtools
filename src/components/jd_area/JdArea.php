@@ -1,9 +1,9 @@
 <?php
-namespace jinowom\yii2jwtools\components\jd_area;
+namespace jinowom\yii2jtools\components\jd_area;
 
 
 use GuzzleHttp\Client;
-use jinowom\yii2jwtools\tools\Model;
+use jinowom\yii2jtools\tools\Model;
 use yii\base\Component;
 use yii\base\StaticInstanceInterface;
 use yii\base\StaticInstanceTrait;

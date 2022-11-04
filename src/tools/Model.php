@@ -6,7 +6,7 @@
  * Time: 下午4:03
  */
 
-namespace jinowom\yii2jwtools\tools;
+namespace jinowom\yii2jtools\tools;
 
 
 use yii\db\ActiveRecord;

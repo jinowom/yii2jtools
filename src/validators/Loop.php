@@ -1,5 +1,5 @@
 <?php
-namespace jinowom\yii2jwtools\validators;
+namespace jinowom\yii2jtools\validators;
 
 
 use yii\db\ActiveRecord;

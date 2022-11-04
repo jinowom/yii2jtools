@@ -1,5 +1,5 @@
 <?php
-namespace jinowom\yii2jwtools\rewrite\yii2web;
+namespace jinowom\yii2jtools\rewrite\yii2web;
 
 use yii\web\IdentityInterface;
 

@@ -6,7 +6,7 @@
  * Time: 12:09
  */
 
-namespace jinowom\yii2jwtools\validators;
+namespace jinowom\yii2jtools\validators;
 
 
 use yii\validators\Validator;

@@ -6,7 +6,7 @@
  * Time: 下午5:14
  */
 
-namespace jinowom\yii2jwtools\tools;
+namespace jinowom\yii2jtools\tools;
 
 
 use yii\log\FileTarget;

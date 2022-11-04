@@ -1,5 +1,5 @@
 <?php
-namespace jinowom\yii2jwtools\components\gaode;
+namespace jinowom\yii2jtools\components\gaode;
 
 
 use GuzzleHttp\Client;

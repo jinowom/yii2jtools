@@ -1,5 +1,5 @@
 <?php
-namespace jinowom\yii2jwtools\tools;
+namespace jinowom\yii2jtools\tools;
 
 
 use yii\web\View;

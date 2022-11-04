@@ -6,7 +6,7 @@
  * Time: 下午3:20
  */
 
-namespace jinowom\yii2jwtools\rewrite\dmstr;
+namespace jinowom\yii2jtools\rewrite\dmstr;
 
 
 use Yii;

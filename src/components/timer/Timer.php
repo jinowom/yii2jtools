@@ -1,7 +1,7 @@
 <?php
-namespace jinowom\yii2jwtools\components\timer;
+namespace jinowom\yii2jtools\components\timer;
 
-use jinowom\yii2jwtools\tools\FileHelper;
+use jinowom\yii2jtools\tools\FileHelper;
 use yii\base\Component;
 use yii\log\Logger;
 

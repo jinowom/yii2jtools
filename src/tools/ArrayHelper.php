@@ -6,7 +6,7 @@
  * Time: 下午5:32
  */
 
-namespace jinowom\yii2jwtools\tools;
+namespace jinowom\yii2jtools\tools;
 
 
 class ArrayHelper extends \yii\helpers\ArrayHelper

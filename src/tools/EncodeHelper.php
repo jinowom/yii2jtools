@@ -6,7 +6,7 @@
  * Time: 下午5:39
  */
 
-namespace jinowom\yii2jwtools\tools;
+namespace jinowom\yii2jtools\tools;
 
 
 class EncodeHelper

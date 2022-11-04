@@ -1,5 +1,5 @@
 {
-    "name": "jinowom/yii2jwtools",
+    "name": "jinowom/yii2jtools",
     "description": "tools and rewrite",
     "keywords": [
         "tools",
@@ -17,14 +17,14 @@
     "authors": [
         {
             "name": "jinowom",
-            "email": "jinowom451611cv@gmail.com"
+            "email": "chareler@163.com"
         }
     ],
     "minimum-stability": "dev",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "jinowom\\yii2jwtools\\": "src/"
+            "jinowom\\yii2jtools\\": "src/"
         }
     }
 }

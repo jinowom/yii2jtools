@@ -6,7 +6,7 @@
  * Time: 14:05
  */
 
-namespace jinowom\yii2jwtools\lib;
+namespace jinowom\yii2jtools\lib;
 
 
 class MhtFileMaker

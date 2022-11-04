@@ -6,7 +6,7 @@
  * Time: 12:09
  */
 
-namespace jinowom\yii2jwtools\tools;
+namespace jinowom\yii2jtools\tools;
 
 
 use creocoder\flysystem\Filesystem;
